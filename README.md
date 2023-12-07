@@ -1,0 +1,1 @@
+This file contains code for making a singly linked list and perform operations like traversing, insertion of nodes, deletion of nodes. The code follows a very functional approach ie it contains function for each operation that is performed on the linked list.
